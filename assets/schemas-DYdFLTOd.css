@@ -1,0 +1,1 @@
+form button:not(:disabled):hover{background:#999aa7}form button:disabled{opacity:.5;cursor:not-allowed}

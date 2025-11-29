@@ -1,0 +1,1 @@
+button:not(:disabled):not(.remove):not(.placeOrders):hover{background-color:#656363}button:disabled{opacity:.5;cursor:not-allowed}
